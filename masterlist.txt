@@ -6,3 +6,4 @@ David Conselvan
 Yu Wu
 Shuyan Ren
 Sharan Chakravarthy
+Minqi Huang
